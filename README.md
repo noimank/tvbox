@@ -24,3 +24,21 @@ tip：收集自网络，不保证可用性，需要自己测试，iptv源自己�
 
 以上均为本人维护，低调使用
 
+# 5.iptv源
+
+1.https://github.com/Meroser/IPTV
+
+2.https://github.com/HerbertHe/iptv-sources
+
+3.https://github.com/fanmingming/live
+
+ipv6测试地址：
+
+1：https://test-ipv6.com/
+
+2: https://ipw.cn/
+
+有些直播无法观看有可能是你的网络不支持ipv6，请检查自己的网络环境
+
+
+
