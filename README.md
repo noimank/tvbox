@@ -33,11 +33,9 @@ tip：收集自网络，不保证可用性，需要自己测试，iptv源自己�
 
 # 5.iptv源
 
-1.https://github.com/Meroser/IPTV
+1.https://github.com/HerbertHe/iptv-sources
 
-2.https://github.com/HerbertHe/iptv-sources
-
-3.https://github.com/fanmingming/live
+2.https://github.com/fanmingming/live
 
 ipv6测试地址：
 
