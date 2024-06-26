@@ -33,8 +33,6 @@ tip：收集自网络，不保证可用性，需要自己测试，iptv源自己�
 以上均为本人维护，低调使用
 
 # 5.iptv源
-发现一个大佬写的直播软件，安装即用，速度非常快，对ipv6不敏感，这里贴上地址：https://github.com/lizongying/my-tv
-，若是感觉项目很棒，那就动动star吧。
 
 1.https://github.com/HerbertHe/iptv-sources
 
