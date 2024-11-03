@@ -19,9 +19,8 @@
 # 3.源推荐
 tip：收集自网络，不保证可用性，需要自己测试，iptv源自己找也行，不过内置的iptv源就够用了，具体看个人
 
-1.https://www.lige.fit/tvbox
 
-2.https://www.juwanhezi.com/other/jsonlist
+1.https://www.juwanhezi.com/other/jsonlist
 
 # 4.影视仓多仓源接口
 1.gitlab： https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
