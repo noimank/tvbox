@@ -5,7 +5,7 @@
             "name": "🚀1-肥猫"
         },
         {
-            "url": "https://www.饭太硬.com/tv",
+            "url": "http://www.饭太硬.com/tv/",
             "name": "🚀2-饭太硬推荐"
         },
         {
@@ -13,15 +13,16 @@
             "name": "🚀3-健康家用"
         },
         {
-            "url": "https://ghp.ci/raw.githubusercontent.com/guot55/YGBH/main/vip2.json",
-            "name": "🚀4-宝盒线路"
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "🚀4-小米"
         },
+
         {
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
             "name": "🚀5-王二小"
         },
         {
-            "url": "https://ghp.ci/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
+            "url": "https://gh-proxy.com/raw.githubusercontent.com//gaotianliuyun/gao/master/0827.json",
             "name": "🚀6-FongMI线路"
         },
         {
@@ -29,48 +30,41 @@
             "name": "🚀7-巧计线路"
         },
         {
-            "url": "http://www.mpanso.com/小米/DEMO.json",
-            "name": "🚀8-小米"
-        },
-        {
             "url": "https://weixine.net/ysc.json",
-            "name": "🚀9-运输车路"
+            "name": "🚀8-运输车路"
         },
         {
             "url": "https://100km.top/0",
-            "name": "🚀10-骚 0线路"
+            "name": "🚀9-骚 0线路"
         },
         {
-            "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
-            "name": "🚀11-高天流云js"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀10-高天流云js"
         },
         {
-            "url": "https://ghp.ci/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
-            "name": "🚀12-高天流云 XYQ"
+            "url": "https://gh-proxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json",
+            "name": "🚀11-高天流云 XYQ"
         },
         {
             "url": "http://www.lyyytv.cn/yt/yt.json",
-            "name": "🚀13-影探线路"
+            "name": "🚀12-影探线路"
         },
+
         {
-            "url": "http://dxawi.github.io/0/0.json",
-            "name": "🚀14-dxawi线路"
-        },
-        {
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
-            "name": "🚀15-南风"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀13-南风"
         },
         {
             "url": "https://szyyds.cn/tv/x.json",
-            "name": "🚀16-小马线路"
+            "name": "🚀14-小马线路"
         },
         {
             "url": "https://www.wya6.cn/tv/yc.json",
-            "name": "🚀17-无意线路"
+            "name": "🚀15-无意线路"
         },
         {
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
-            "name": "🚀18-潇洒哥线路"
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "name": "🚀16-潇洒哥线路"
         }
     ]
 }
