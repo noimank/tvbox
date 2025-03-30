@@ -27,7 +27,7 @@ tip：收集自网络，不保证可用性，需要自己测试，iptv源自己�
 
 2.csdn的gitcode： https://raw.gitcode.com/noimank/tvbox/raw/main/tvboxmuti.json
 
-3.GitHub加速：https://gh.three2all.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json
+3.GitHub加速：https://gh-proxy.com/https://raw.githubusercontent.com/noimank/tvbox/master/tvboxmuti.json
 
 以上均为本人维护，低调使用
 
@@ -45,7 +45,7 @@ ipv6测试地址：
 
 2: https://ipw.cn/
 
-有些直播无法观看有可能是你的网络不支持ipv6，请检查自己的网络环境,推荐一个非常不错的iptv直播软件项目：https://github.com/yaoxieyoulei/mytv-android
+有些直播无法观看有可能是你的网络不支持ipv6，请检查自己的网络环境
 
 
 
