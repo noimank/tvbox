@@ -11,8 +11,11 @@
 
 
 官网：http://qiqiv.cn/
+
 软件分享主页：https://bbs.qiqiv.cn/thread-11997-1-1.html
-夸克网盘分享：https://pan.quark.cn/s/57cfe0fc1079#/list/share
+
+夸克网盘分享：[https://pan.quark.cn/s/57cfe0fc1079#/list/share](https://pan.quark.cn/s/f57d4c654fb0#/list/share)
+
 
 # 2.tvbox
 仅支持单源，APP内无法方便的切换源
@@ -26,7 +29,7 @@ tip：收集自网络，不保证可用性，需要自己测试，iptv源自己�
 1.https://www.juwanhezi.com/other/jsonlist
 
 # 4.影视仓多仓源接口
-1.gitlab： https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
+1.gitlab（推荐）： https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json
 
 2.csdn的gitcode： https://raw.gitcode.com/noimank/tvbox/raw/main/tvboxmuti.json
 
