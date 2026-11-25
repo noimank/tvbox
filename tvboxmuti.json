@@ -13,8 +13,8 @@
             "name": "🚀3-小饭太硬备用"
         },
         {
-            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
-            "name": "🚀4-健康家用"
+            "url": "https://xkykmovie.com/api/maccms",
+            "name": "🚀4-星光影库"
         },
         {
             "url": "https://clun.top/box.json",
@@ -55,6 +55,10 @@
         {
             "url": "https://www.wya6.cn/tv/yc.json",
             "name": "🚀14-无意线路"
+        },
+        {
+            "url": "https://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json",
+            "name": "🚀15-健康家用"
         }
     ]
 }
